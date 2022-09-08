@@ -1,0 +1,31 @@
+
+[
+	{
+		"imagepath": "assets/locations/village.jpg",
+		"title": "Small Village",
+		"subtitle": "Help the villagers",
+		"lvl": "1-5",
+		"descry": "A temporary description to see what it will look like and to know if there is anything else I need to change here."
+	},
+	{
+		"imagepath": "assets/locations/magicforrest.jpg",
+		"title": "Secret Forest",
+		"subtitle": "Discovery of a secret",
+		"lvl": "1-5",
+		"descry": "A temporary description to see what it will look like and to know if there is anything else I need to change here."
+	},
+	{
+		"imagepath": "assets/locations/city.jpg",
+		"title": "City",
+		"subtitle": "Break the gang",
+		"lvl": "1-5",
+		"descry": "A temporary description to see what it will look like and to know if there is anything else I need to change here."
+	},
+	{
+		"imagepath": "assets/locations/village.jpg",
+		"title": "Small Village",
+		"subtitle": "Help the villagers",
+		"lvl": "1-5",
+		"descry": "A temporary description to see what it will look like and to know if there is anything else I need to change here."
+	}
+]
