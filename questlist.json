@@ -1,28 +1,28 @@
 
 [
 	{
-		"https://cdn.discordapp.com/attachments/1076244849910632518/1076246640341553264/village.jpg",
+		"imagepath": "https://cdn.discordapp.com/attachments/1076244849910632518/1076246640341553264/village.jpg",
 		"title": "Small Village",
 		"subtitle": "Help the villagers",
 		"lvl": "1-5",
 		"descry": "A temporary description to see what it will look like and to know if there is anything else I need to change here."
 	},
 	{
-		"https://cdn.discordapp.com/attachments/1076244849910632518/1076246682318143528/magicforrest.jpg",
+		"imagepath": "https://cdn.discordapp.com/attachments/1076244849910632518/1076246682318143528/magicforrest.jpg",
 		"title": "Secret Forest",
 		"subtitle": "Discovery of a secret",
 		"lvl": "1-5",
 		"descry": "A temporary description to see what it will look like and to know if there is anything else I need to change here."
 	},
 	{
-		"https://cdn.discordapp.com/attachments/1076244849910632518/1076246700403990558/city.jpg",
+		"imagepath": "https://cdn.discordapp.com/attachments/1076244849910632518/1076246700403990558/city.jpg",
 		"title": "City",
 		"subtitle": "Break the gang",
 		"lvl": "1-5",
 		"descry": "A temporary description to see what it will look like and to know if there is anything else I need to change here."
 	},
 	{
-		"https://cdn.discordapp.com/attachments/1076244849910632518/1076246531054784666/startingzone.jpg",
+		"imagepath": "https://cdn.discordapp.com/attachments/1076244849910632518/1076246531054784666/startingzone.jpg",
 		"title": "Small Village",
 		"subtitle": "Help the villagers",
 		"lvl": "1-5",
